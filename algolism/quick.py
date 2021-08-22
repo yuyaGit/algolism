@@ -3,6 +3,7 @@ from typing import List
 
 def quick_sort(numbers):
     len_numbers = len(numbers)
+    len_numbers = len(numbers)
 
 
 if __name__ == "__main__":
